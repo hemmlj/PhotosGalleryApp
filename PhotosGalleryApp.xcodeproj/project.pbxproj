@@ -170,6 +170,7 @@
 				TargetAttributes = {
 					CEEF3A34196B5402002668C0 = {
 						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = 5B74SV6534;
 						LastSwiftMigration = 0820;
 					};
 					CEEF3A46196B5402002668C0 = {
@@ -184,6 +185,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -349,6 +351,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 5B74SV6534;
 				INFOPLIST_FILE = "$(SRCROOT)/PhotosGalleryApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AbboudsCorner.${PRODUCT_NAME:rfc1034identifier}";
@@ -362,6 +365,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 5B74SV6534;
 				INFOPLIST_FILE = "$(SRCROOT)/PhotosGalleryApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AbboudsCorner.${PRODUCT_NAME:rfc1034identifier}";
